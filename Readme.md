@@ -2,3 +2,7 @@
 
 Git is an open source software for version control system 
 
+- # Creating an origin branch you run
+`
+git branch -M <desiredName>
+`
