@@ -6,3 +6,5 @@ Git is an open source software for version control system
 `
 git branch -M <desiredName>
 `
+
+- # Creating branch from the experimental branch
